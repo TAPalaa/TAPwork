@@ -190,10 +190,18 @@ header {
     position: relative;
     margin-top: 100px;
 }
-.ab img{
+.abi{
     margin-left: 50px;
     width: 350px;
     height: 400px;
+    background-image: url("../Screenshots/_38e0fa83-21c5-42be-b838-af0b55c97504.jpeg");
+    background-size: cover;
+}
+.api{
+    background-image: url("../Screenshots/_6bea2f0b-7b80-4ac5-a39c-417aa5be44fd.jpeg");
+    width: 300px;
+    height: 370px;
+    background-size: cover;
 }
 .abb{
     content: "";
