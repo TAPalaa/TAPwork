@@ -8,7 +8,7 @@ fetch(`https://api.github.com/users/TAPalaa/repos`).then((res)=>res.json().then(
     let a = document.createElement("div")
     a.innerHTML = `
             <div class="poro">
-            <a href="${user.html_url}"><h3>${user.name}</h3></a>
+            <a href="https://TAPalaa.github.io/${user.name}"><h3>${user.name}</h3></a>
             <p>
                 ${user.description}
             </p>
