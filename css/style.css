@@ -98,7 +98,7 @@ header {
     font-size: 4em;
     margin: 0;
     padding: 100px ;
-    text-shadow: 10px 10px 10px black;
+    text-shadow: 5px 5px 10px black;
 }
 .le p{
     font-size: 1.5em;
@@ -172,11 +172,11 @@ header {
     position: absolute;
     height: 500px;
     width: 150px;
-    background-color: #000158;
+    background-color: #196eb1;
     top: -70px;
     right: -70px;
     z-index: -10;
-    box-shadow: 5px 5px 20px 3px #000158;;
+    box-shadow: 5px 5px 20px 3px #196eb1;;
 }
 .poo {
     display: flex;
